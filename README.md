@@ -7,4 +7,4 @@ Aim of this project is make a power outlet that can measure electricity current 
 3. Power Outlet. You can use any type of it depending on your country reference.
 4. Breadboard and Jumper Cables to connect between ESP32 and ACS712.
 ## Wiring
-https://github.com/raihannur45/Web-Server-Based-Electrical-Monitoring-System/blob/main/wiring/Rangkaian.png
+![Wiring image](https://github.com/raihannur45/Web-Server-Based-Electrical-Monitoring-System/blob/main/wiring/Rangkaian.png)
