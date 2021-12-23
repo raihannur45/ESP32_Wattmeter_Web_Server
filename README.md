@@ -8,6 +8,9 @@ Aim of this project is make a power outlet that can measure electricity current 
 4. Breadboard and Jumper Cables to connect between ESP32 and ACS712.
 ## Wiring
 ![Wiring image](https://github.com/raihannur45/Web-Server-Based-Electrical-Monitoring-System/blob/main/Images/Wiring.png)
+## Libraries
+- ESPAsyncWebServer: https://github.com/me-no-dev/ESPAsyncWebServer
+- AsyncTCP: https://github.com/me-no-dev/AsyncTCP
 ## Tutorial
 1. Upload the code to your ESP32 board.
 2. Upload the HTML file. To install ESP32 Filesystem Uploader in Arduino IDE you can read this: https://randomnerdtutorials.com/install-esp32-filesystem-uploader-arduino-ide/
